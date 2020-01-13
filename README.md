@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/TeacherEvalSM/TeacherEval/_apis/build/status/shailesh99.pipelines-java?branchName=master)](https://dev.azure.com/TeacherEvalSM/TeacherEval/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
